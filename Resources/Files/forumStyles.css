@@ -1,0 +1,19 @@
+* { padding: 0; margin: 0; }
+body { font-family: HelveticaNeue, sans-serif; font-size: 11px; margin:10px; word-wrap: break-word; }
+blockquote { width:86%; margin: 10px auto; padding: 10px; border: 1px dashed #666; }
+li { margin: 5px 15px; }
+strong.quoteheader {  }
+strong.important_text { color: red; }
+img.load-delay { max-width:80%; width: auto; max-height:128px; height:128px; display: block; border: 1px solid #333; margin:5px auto; background-color: #fff; padding:5px; }
+img.what-smiley { height:11px; }
+span.size1 { font-size: 0.75em; }
+span.size2 { font-size: 1em; }
+span.size3 { font-size: 1.25em; }
+span.size4 { font-size: 1.5em; }
+span.size5 { font-size: 1.75em; }
+span.size6 { font-size: 2em; }
+span.size7 { font-size: 2.25em; }
+span.size8 { font-size: 2.5em; }
+span.size9 { font-size: 2.75em; }
+span.size10 { font-size: 3em; }
+a { text-decoration: none; font-weight: bold; }

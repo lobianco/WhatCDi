@@ -1,0 +1,22 @@
+<html>
+<head>
+<style type="text/css">{%content_style1%}</style>
+<style type="text/css">{%content_style2%}</style>
+<meta charset="utf-8" />
+</head>
+<body>
+<p>{%content_body%}</p>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+$(window).load(function () {
+setTimeout(function () {
+$('.load-delay').each(function () {
+var imagex = $(this);
+var imgOriginal = imagex.data('original');
+$(imagex).attr('src', imgOriginal);
+});
+}, 300);
+});
+</script>
+</body>
+</html>
