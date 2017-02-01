@@ -1,3 +1,5 @@
+**Edit (January, 2017):** This repo is no longer maintained!
+
 WhatCDi (What.CD for iPhone)
 ============================
 
@@ -6,12 +8,12 @@ Access What.CD natively from your jailbroken iPhone.
 ## Installation
 
 1. In Cydia, add the repo: `repo.whatcdios.com`
-2. Install WhatCDi and enjoy ![Heart](https://whatimg.com/i/USJX7V.png)
+2. Install WhatCDi and enjoy!
 
 ## Manual Setup
 
 1. Download the project and navigate into the project folder:
-    * `git clone https://github.com/c88/WhatCDi.git` (or [download the ZIP](https://github.com/c88/WhatCDi/archive/master.zip))
+    * `git clone https://github.com/lobianco/WhatCDi.git` (or [download the .zip](https://github.com/lobianco/WhatCDi/archive/master.zip))
     * `cd WhatCDi`
 2. [Install Cocoapods](http://cocoapods.org/) (if necessary)
 3. Fetch the Cocoapods dependencies:
